@@ -2,63 +2,27 @@
 
 ## Dias y horarios de cursada:
 
->Martes y Jueves: de 19 a 22 hs
+>Martes y Jueves: de 07:00/05 a 10:00
 
-## Correlativas y equivalencias
+## Evaluaciones
 
-No se aceptan excepcion de correlatividad
+> Evaluacion parcial que se avisara con tiempo
 
-Para cursar TA049 (Ingeniería del Software II) se necesita:
- - Base de Datos
- - Ingenieria de Software I
- - Taller de Programación
+> Trabajo practico de a grupos de a 3 a 5 integrantes -> No más ni menos
 
-## Modalidad de cursada
+Los temas se daran en clase y lo vamos a elegir nosotros
 
-### Modalidad de cursada
-> Las clases son todas virtuales
-> Se graban y se suben
+Vamos a intentar que sea los más simil a la vida real 
 
-### Comunicacion
-> Se utilizara el Slack de la materia [link al slack](https://app.slack.com/client/T22EKRZA4/C22ESNAE9)
-> Para el trabajo grupal existirán reuniones semanales de seguimiento
+Estimacion de costos, ver inversion, puntos de control, dar de baja, presentacion, puesta en produccion, mantenimiento, reentrenamiento, etc.
 
-### Clases especiales
->Existiran invitados externos para hablar sobre temáticas relacionadas
+## Que vamos a hacer
 
-## Plantel docente
+Proyecto completo, que funcione ML
 
->Hay muchos anotados en todas las materias asi que hay muchos docentes ad honorem
+No entrenamos modelos -> Hacemos aplicaciones
 
-## Mision, vision y valores
+## Entrega final del trabajo
 
-### Contexto
-En los últimos 20 años los sitemas pasaron de ser locales (desktip, on-site) a ser **distribuidos** ("Internet-scale"). Los procesos y herramientas de desarrollo de software se fueron adaptando 
-
-Waterfall -> XP / Agile -> "Post Agile"
-
-Hay que adaptar un poco las cosas y metodos.
-
-### Visión
-
-Convertirnos en una asignatura referente en la formación deingenieros de software, reconocida por su enfoque práctico y por la capacidad de sus egresados de implementar y liderar proyectos de software de gran escala y complejidad de principio a fin.
-
-### Objetivo
-Analisis -> Design -> Development -> Testing -> Development -> Maintenance
-
-En la materia vamos a estudiar métodos que cubren **todo** el ciclo de desarrollo de software
-- Con foco especial en las últimas partes
-- Desde un punto de vista **práctico y de producto (UX)**
-
-## Módulos
-
-## Roadmap del cuatrimestre
-
-## Trabajo Práctico individual
-
-## Trabajo Práctico Grupal
-
-## Clases
-
-## Consultas
+Con la entrega del trabajo y aprobacion se libera el final
 

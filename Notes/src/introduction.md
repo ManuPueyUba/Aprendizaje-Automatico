@@ -1,25 +1,20 @@
-# Ingenieria de Software II 
-
-[Link a la pagina de la catedra](https://ingenieria-del-software-2.github.io/material/#backend)
-
-[Link al canal de YouTube](https://www.youtube.com/@IngSoft2)
+# Aprendizaje Automatico
 
 ---
 
 ## 📘 Sobre este proyecto
 
-Este documento son mis apuntes de la materia Ing de Software II - Rojas
+Este documento son mis apuntes de la materia Aprendizaje Automarico - Merlino
 
 ---
 
 ## 🎓 Contexto académico
 
-- **Materia:** Ingenieria de Software II
-- **Código:** TA049 
+- **Materia:** Aprendizaje Automatico
+- **Código:** 
 - **Institución:** Facultad de Ingeniería – Universidad de Buenos Aires (FIUBA)
 
 ---
-
 
 
 ## 🎯 Objetivo
