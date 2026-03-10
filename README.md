@@ -1,23 +1,17 @@
-# Ingenieria de Software II
+# Aprendizaje Automatico
 
 ## Sobre este Proyecto
 
 Este repositorio contiene mis apuntes teóricos y desarrollos prácticos realizados en el marco de la materia:
 
-**Ingenieria de Software II (TA049)**  
+**Aprendizaje Automatico**  
 Facultad de Ingeniería – Universidad de Buenos Aires (FIUBA)
-
-
-[Link a la pagina de la catedra](https://ingenieria-del-software-2.github.io/)
-
-[Ejemplos](https://github.com/concurrentes-fiuba/ejemplos-concurrentes)
-
 
 
 ## 🎓 Contexto académico
 
-- **Materia:** Ingenieria de Software II
-- **Código:** TA049 
+- **Materia:** Aprendizaje Automatico
+- **Código:** 
 - **Institución:** Facultad de Ingeniería – Universidad de Buenos Aires (FIUBA)
 
 
